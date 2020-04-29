@@ -1,2 +1,2 @@
 # DataScience_Freshers-master
-Classes done in Acadgild for free
+Classes done in Acadgild for fresher
